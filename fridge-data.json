@@ -1,13 +1,1 @@
-[
-  {
-    "name": "鸡蛋",
-    "category": "蛋品",
-    "location": "冷藏",
-    "quantity": 1,
-    "unit": "个",
-    "expireDate": "2026-07-30T14:26:00.000Z",
-    "status": "fresh",
-    "createdAt": "2026-07-15T14:48:15.538Z",
-    "id": 45
-  }
-]
+[]
