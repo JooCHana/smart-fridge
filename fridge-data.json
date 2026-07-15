@@ -1,7 +1,35 @@
 [
   {
-    "name": "test",
-    "category": "其他",
-    "expireDate": "2026-07-15T14:33:10.725Z"
+    "name": "西红柿",
+    "category": "蔬菜",
+    "location": "常温",
+    "quantity": 1,
+    "unit": "个",
+    "expireDate": "2026-07-19T16:00:00.000Z",
+    "status": "fresh",
+    "createdAt": "2026-07-15T14:26:38.024Z",
+    "id": 39
+  },
+  {
+    "name": "鸡蛋",
+    "category": "蛋品",
+    "location": "冷藏",
+    "quantity": 1,
+    "unit": "个",
+    "expireDate": "2026-07-30T14:26:00.000Z",
+    "status": "fresh",
+    "createdAt": "2026-07-15T14:27:42.109Z",
+    "id": 41
+  },
+  {
+    "name": "鸡蛋",
+    "category": "蛋品",
+    "location": "冷藏",
+    "quantity": 1,
+    "unit": "个",
+    "expireDate": "2026-07-30T14:26:00.000Z",
+    "status": "fresh",
+    "createdAt": "2026-07-15T14:27:51.878Z",
+    "id": 42
   }
 ]
