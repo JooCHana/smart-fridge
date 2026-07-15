@@ -3,7 +3,7 @@
     "name": "西红柿",
     "category": "蔬菜",
     "location": "常温",
-    "quantity": 1,
+    "quantity": 10,
     "unit": "个",
     "expireDate": "2026-07-19T16:00:00.000Z",
     "status": "fresh",
